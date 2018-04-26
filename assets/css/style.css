@@ -1,0 +1,15 @@
+body {
+    background: lightslategray;
+}
+.jumbotron {
+    text-align: center;
+}
+#questions {
+    text-align: center;
+}
+#answers {
+    text-align: center;
+}
+#time {
+    text-align: center;
+}
