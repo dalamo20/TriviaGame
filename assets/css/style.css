@@ -1,8 +1,18 @@
 body {
     background: lightslategray;
 }
+#game-area {
+    background-color:white;
+    margin: 20px auto; 
+    overflow: auto;
+    padding: 25px;
+    width: 50%;
+}
 .jumbotron {
     text-align: center;
+}
+button {
+    margin: 0 auto;
 }
 #questions {
     text-align: center;
@@ -11,5 +21,11 @@ body {
     text-align: center;
 }
 #time {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+#timer {
     text-align: center;
 }
